@@ -1,0 +1,57 @@
+﻿,,FivecompthTAlt,FivecompthTAht,
+soma,diam,22,30,1
+soma,L,2952,3665,1
+soma,g_pas,8.11E-05,3.77E-04,1
+soma,e_pas,-71,-72,1
+soma,gbar_na3rp,0.01,0.022,1
+soma,gbar_naps,2.60E-05,2.00E-05,1
+soma,sh_na3rp,1,1,"		"
+soma,sh_naps,5,5,"		"
+soma,ar_na3rp,1,1,"		"
+soma,ar_naps,1,1,
+soma,gMax_kdrRL,0.015,0.02,1
+soma,gcamax_mAHP,6.40E-06,8.50E-06,3
+soma,gkcamax_mAHP,0.00045,0.0006,1
+soma,taur_mAHP,90,30,1
+soma,ek,-80,-80,
+soma,Ra,0.001,0.001,
+soma,cm,1.35546,1.87853,1
+soma,ghbar_gh,3.00E-05,2.30E-04,1
+soma,half_gh,-77,-77,
+,,,,
+*,forsec dend{,,,
+Global,L,1794.13,2226.91,1
+Global,diam,8.73071,11.9055,1
+Global,g_pas,7.93E-05,1.75E-04,1
+Global,e_pas,-71,-72,1
+Global,gcabar_L_Ca_inact,6.50E-05,9.60E-05,1
+Global,Ra,51.038,40.755,1
+Global,cm,0.867781,0.880407,1
+Global,ghbar_gh,3.00E-05,2.30E-04,1
+Global,half_gh,-77,-77,
+*,},,,
+,,,,
+d1,gcabar_L_Ca_inact,6.50E-06,7.80E-06,1
+d2,gcabar_L_Ca_inact,5.50E-06,8.80E-06,1
+d3,gcabar_L_Ca_inact,8.00E-06,9.80E-06,1
+d4,gcabar_L_Ca_inact,9.50E-06,1.13E-05,1
+,,,,
+,,,,
+Global,qinf_na3rp,8,8,
+Global,thinf_na3rp,-50,-50,
+Global,vslope_naps,5,5,
+Global,asvh_naps,-90,-90,
+Global,bsvh_naps,-22,-22,
+Global,mvhalfca_mAHP,-20,-20,
+Global,mtauca_mAHP,2,2,
+Global,celsius,37,37,
+Global,theta_m_L_Ca_inact,-42,-32,1
+Global,tau_m_L_Ca_inact,40,40,"		"
+Global,theta_h_L_Ca_inact,10,-10,"1		"
+Global,tau_h_L_Ca_inact,2500,2500,"		"
+Global,kappa_h_L_Ca_inact,5,5,"		"
+Global,htau_gh,30,30,"		"
+Global,mVh_kdrRL,-21,-21,"		"
+Global,tmin_kdrRL,0.8,0.8,
+Global,taumax_kdrRL,20,20,"	"
+Global,V0,-15,10,1
